@@ -5,4 +5,4 @@ README
 - feature-C
 - feature
 - feature-D
-- fix issue #1
+- fixed issue #1

@@ -4,3 +4,4 @@ README
 -fix -B
 - feature-C
 - feature
+- feature-D
